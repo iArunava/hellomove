@@ -1,0 +1,9 @@
+[package]
+name = "HelloMove"
+version = "0.0.0"
+
+[addresses]
+hello_move = "_"
+
+[dependencies]
+AptosFramework = { local = "./framework/aptos-framework" }
